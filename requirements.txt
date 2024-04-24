@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-openai
+pypdf
+chromadb
+tiktoken
+cryptography
+huggingface_hub
+transformers
+sentence_transformers
+gradio
+pandas
